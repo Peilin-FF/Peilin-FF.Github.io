@@ -174,8 +174,6 @@ Yuanshuai Wang<sup>†</sup>, Xingjian Zhang<sup>†</sup>, Jinkun Zhao<sup>†<
 
 # ✏️ Community Service
 - Conference Reviewer: AAAI, ICLR workshop, Neurips
-<div class="visitor-map">
-  <script id="_waupfl">var _wau = _wau || []; _wau.push(["map", "w5mpt36rh37h", "pfl", "250", "125", "night", "cross-pink"]);</script><script async src="https://waust.at/m.js"></script>
-</div>
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=zPzVmHbYMKiKoDeQ37f2Y60SWu9aiDwmXLD4moLgquc&cl=ffffff&w=a"></script>
 
 
